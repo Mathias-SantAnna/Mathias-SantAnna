@@ -13,7 +13,7 @@
 ![Arthur Morgan Horse](https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf)
 
 
-- 📫 How to reach: **[e-mail me here](mailto:mathias.cagnoni@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
+- 📫 How to reach: **[send me a ✉️](mailto:mathias.cagnoni@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
 <h3 align="left">Connect with me:</h3>
 
