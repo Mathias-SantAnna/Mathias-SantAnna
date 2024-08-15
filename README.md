@@ -10,7 +10,7 @@
 
 - 💬 I'am interested in  **🎮, 📷 and [🍿](https://www.imdb.com/search/title/?genres=sci-fi)**
 
-![Arthur Morgan Horse]("https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf")
+![Arthur Morgan Horse](https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf)
 
 
 
