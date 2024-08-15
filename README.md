@@ -8,16 +8,15 @@
 - 🌱 I’m learning **Python** & **React** 
 
 
-- 💬 I'am interested in  **Games, Photography and [Sci-fi/Thriller/Adventure Movies & tv-shows](https://www.imdb.com/search/title/?genres=sci-fi)**
+- 💬 I'am interested in  **🎮, 📷 and [🍿](https://www.imdb.com/search/title/?genres=sci-fi)**
 
-![Arthur Morgan Horse](https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf)
+![Arthur Morgan Horse]("https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf")
 
 
-- 📫 How to reach: **[send me a ✉️](mailto:mathias.cagnoni@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
 <h3 align="left">Connect with me:</h3>
 
-+ [LinkedIn](https://www.linkedin.com/in/mathias-santanna/)
+ [<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="Linkedin" />](https://www.linkedin.com/in/mathias-santanna/)
 
 <br>
 
@@ -26,7 +25,7 @@
 
 <table>
   <!-- Resource: https://skillicons.dev/ -->
-  <!-- https://github.com/tandpfun/skill-icons#readme -->
+  <!-- https://github.com/Mathias-SantAnna/skill-icons#readme -->
   <tr>
     <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -103,10 +102,12 @@
 
 <br/>
 
-<br> 
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=Mathias-SantAnna&show_icons=true&theme=dark)
+<details>
+  <summary>Github Stats ⚡</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-SantAnna&layout=compact&theme=dark)](https://github.com/Mathias-SantAnna/github-readme-stats)
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mathias-SantAnna&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-SantAnna&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
-<br/>
+- 📫 How to reach: **[send me a ✉️](mailto:mathias.cagnoni@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
