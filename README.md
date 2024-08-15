@@ -20,15 +20,6 @@
 + [LinkedIn](https://www.linkedin.com/in/mathias-santanna/)
 
 <br>
-  
- ![github stats](https://github-readme-stats.vercel.app/api?username=Mathias-SantAnna&show_icons=true&theme=dark)
-
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-SantAnna&layout=compact&theme=dark)](https://github.com/Mathias-SantAnna/github-readme-stats)
-<br/>
-
-<br/>
 
 
 ## Tools & technologies I have worked with:
@@ -110,4 +101,12 @@
 
 </table>
 
+<br/>
+
 <br> 
+
+ ![github stats](https://github-readme-stats.vercel.app/api?username=Mathias-SantAnna&show_icons=true&theme=dark)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-SantAnna&layout=compact&theme=dark)](https://github.com/Mathias-SantAnna/github-readme-stats)
+
+<br/>
