@@ -110,4 +110,4 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-SantAnna&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
-- 📫 How to reach: **[✉️](mailto:mathias.cagnoni@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
+📫 How to reach: **[✉️](mailto:mathias.cagnoni@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
