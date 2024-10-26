@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently undertaking a Higher Diploma in the **Technological University Dublin**
 
-- 🌱 I’m learning **Python** & **React** 
+- 🌱 I’m learning **Python** & **C#** 
 
 
 - 💬 I'am interested in  **🎮, 📷 and [🍿](https://www.imdb.com/search/title/?genres=sci-fi)**
