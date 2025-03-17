@@ -1,5 +1,6 @@
 <h1 align="center">👋 Olá, I'm Mathias Sant'Anna </h1>
-<h3 align="center">⚡ An enthusiastic Full Stack Developer, passionate about technology ⚡</h3>
+<h3 align="center">⚡ An enthusiastic Junior Full Stack Developer, passionate about my family, music, horses, games ... 
+<br>and technology too😆 ⚡</h3>
 
 <br>
 
@@ -10,7 +11,7 @@
 
 - 💬 I'am interested in  **🎮, 📷 and [🍿](https://www.imdb.com/search/title/?genres=sci-fi)**
 
-![Arthur Morgan Horse](https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf)
+![Arthur Morgan - Best Game Ever](https://github.com/Mathias-SantAnna/Mathias-SantAnna/assets/67033618/614a2c7e-5db0-4160-bcc4-e0d4dc91d9cf)
 
 
 
