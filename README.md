@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathias Sant'Anna </h1>
+<h1 align="center">👋 Olá, I'm Mathias Sant'Anna </h1>
 <h3 align="center">⚡ An enthusiastic Full Stack Developer, passionate about technology ⚡</h3>
 
 <br>
