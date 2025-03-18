@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently undertaking a Higher Diploma in the **Technological University Dublin**
+- 🔭 I’m currently undertaking a Higher Diploma in Computer the **Technological University Dublin**
 
 - 🌱 I’m learning **C#**, **Enterprise Applications Development** & **Object Oriented Programming**
 
