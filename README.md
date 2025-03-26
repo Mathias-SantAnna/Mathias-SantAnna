@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, I'm Mathias Sant'Anna </h1>
 <h3 align="center">⚡ An enthusiastic Junior Full Stack Developer, passionate about my family, music, horses, games ... 
-<br>and technology too😆 ⚡</h3>
+<br>and love technology too😆 ⚡</h3>
 
 <br>
 
