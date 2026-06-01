@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 I’m currently undertaking a Higher Diploma in Computer Science at the **Technological University Dublin**
+- 🔭 I’m just finished a Higher Diploma in Computer Science at the **Technological University Dublin** with 1st Class Honours!
 
-- 🌱 I’m learning **C#**, **Enterprise Applications Development** & **Object Oriented Programming**
+- 🌱 I’m learning **React+TypeScript**, **Enterprise Applications Development** & **Object Oriented Programming**
 
 
 - 💬 I'am interested in  **🎮, 📷 and [🍿](https://www.imdb.com/search/title/?genres=sci-fi)**
@@ -60,6 +60,10 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="mysql" />
       <br>mysql
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="react" />
+      <br>React
+    </td>
   </tr>
   
   <tr>
@@ -96,6 +100,10 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br>AWS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="AZURE" />
+      <br>AZURE
     </td>
   </tr>
 
